@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **garethjevans/garethjevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Gareth 👋 
+
+[![Gareth's GitHub stats](https://github-readme-stats.vercel.app/api?username=garethjevans&show_icons=true&include_all_commits=true)](https://github.com/garethjevans)
+
+
+----------------
+[![GitHub followers](https://img.shields.io/github/followers/garethjevans?label=Follow&maxAge=3600&style=flat-square&logo=Github&labelColor=000000&color=000000)](https://github.com/garethjevans?tab=followers)
+![](https://komarev.com/ghpvc/?username=garethjevans&style=flat-square&color=595959)
